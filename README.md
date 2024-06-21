@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-game
-Tecnology : javascript,css,html
+Technology : javascript,css,html
